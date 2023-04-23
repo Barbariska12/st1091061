@@ -1,0 +1,23 @@
+'' *****************************************************************************
+
+'' ABOUT THIS FILE
+
+'' AUTHOR IDENTITY:
+'' Initials Name/Company
+
+'' -------- -----------------------------------------
+
+'' rw Rick Wagonner ABC INC
+'' REVISION HISTORY:
+'' Date/Initials Comments
+
+'' --------- -------------------------------
+'' rw Created for LoanApp 2.1
+
+''*****************************************
+
+''SCRIPT
+
+AddUser "jsmith", "password", "John", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
+
+AddUser "rnmith", "password", "Nance", "Smith", "ABC", "416-456-0000", "rsmith@sample.com"
